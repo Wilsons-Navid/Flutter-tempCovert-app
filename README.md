@@ -1,6 +1,6 @@
 # Temp Convert App
 
-A beautifully designed, responsive **temperature conversion** app built with Flutter. It allows users to convert temperatures between **Fahrenheit and Celsius**, view results with smooth animations, and keep a short history of conversions. The app also provides a clean, professional UI suitable for both **portrait and landscape** orientations.
+This is a  beautifully designed, responsive **temperature conversion** app built with Flutter. It allows users to convert temperatures between **Fahrenheit and Celsius**, view results with smooth animations, and keep a short history of conversions. The app also provides a clean, professional UI suitable for both **portrait and landscape** orientations.
 
 ---
 
@@ -39,10 +39,10 @@ Follow the steps below to run the app on your local machine.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/temp_convert_app.git
+git clone https://github.com/Wilsons-Navid/Flutter-tempCovert-app.git
 
 # 2. Navigate to the project folder
-cd temp_convert_app
+cd Flutter-tempCovert-app/temp_convert_app
 
 # 3. Get the Flutter dependencies
 flutter pub get
