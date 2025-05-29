@@ -94,7 +94,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ```
 
----
 
-Let me know if you'd like to change anything else, such as adjusting the usage section or linking the MIT license file.
-```
