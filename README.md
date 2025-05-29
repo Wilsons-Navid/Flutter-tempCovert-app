@@ -19,7 +19,7 @@ This is a  beautifully designed, responsive **temperature conversion** app built
 
 ---
 
-## Screenshots
+## Screenshot
 
 
 
