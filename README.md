@@ -21,7 +21,7 @@ This is a  beautifully designed, responsive **temperature conversion** app built
 
 ## Screenshots
 
-![App Screenshot](https://cdn-icons-png.flaticon.com/512/1684/1684375.png)
+
 
 ![image](https://github.com/user-attachments/assets/752a092b-214d-4995-91ca-614153a190b1)
 
